@@ -1,2 +1,2 @@
 # git_test
-github practice with TOP 
+This is J's first git project!
